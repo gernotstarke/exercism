@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3238c4cb-7c74-4c42-a387-ccd39e8501b6" name="Default Changelist" comment="added twelve-day exercise" />
+    <list default="true" id="3238c4cb-7c74-4c42-a387-ccd39e8501b6" name="Default Changelist" comment="added isogram (might be optimized lager)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,13 +86,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first exercises" />
     <MESSAGE value="next exercises" />
     <MESSAGE value="update readme" />
     <MESSAGE value="added twelve-day exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="added twelve-day exercise" />
+    <MESSAGE value="added isogram (might be optimized lager)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added isogram (might be optimized lager)" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
